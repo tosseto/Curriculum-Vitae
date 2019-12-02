@@ -5,6 +5,7 @@
 * ORCID: [0000-0003-0281-1790](https://orcid.org/0000-0003-0281-1790)
 * [Researchgate](https://www.researchgate.net/profile/Toshikazu_Seto)
 * [Google Scholar](https://scholar.google.com/citations?user=UgfWHA4AAAAJ)
+* [Speaker Deck](https://speakerdeck.com/tosseto)
 
 ## 業績情報へのリンク
 * [論文](https://github.com/tosseto/Curriculum-Vitae/blob/master/Article.md)
