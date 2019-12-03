@@ -5,7 +5,7 @@
 * ORCID: [0000-0003-0281-1790](https://orcid.org/0000-0003-0281-1790)
 * [Researchgate](https://www.researchgate.net/profile/Toshikazu_Seto)
 * [Google Scholar](https://scholar.google.com/citations?user=UgfWHA4AAAAJ)
-* [Speaker Deck](https://speakerdeck.com/tosseto)
+* 講演関係のスライド [Speaker Deck](https://speakerdeck.com/tosseto)
 
 ## 業績情報へのリンク
 * [論文](https://github.com/tosseto/Curriculum-Vitae/blob/master/Article.md)
@@ -48,7 +48,7 @@
 ### 2016年度-2019年度現在（放送大学）
  - 生活における地理空間情報の活用（前後各2/15回：担当講師として実施）
 
-## プロフィール文
+## プロフィール文例
 2002年駒澤大学文学部地理学科卒業。2004年東京都立大学大学院 都市科学研究科修士課程修了。同年立命館大学文学部実習助手、 2005年同講師を経て2012年同大学大学院文学研究科博士課程後期 課程修了、博士(文学)。
 2012年同専門研究員・ハーバード大学地理解析センター客員研究員。2013年東京大学空間情報科学研究センター 特任助教、2016年4月より現職（併：生産技術研究所・協力研究員／地域未来社会連携研究機構・参画教員／放送大学・客員准教授）
 
