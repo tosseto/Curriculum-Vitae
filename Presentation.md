@@ -72,6 +72,7 @@
 71.	瀬戸寿一 (2019年3月): Mapillaryを支えるデータ＆アルゴリズム＆チャレンジ、Mapillary Meetup 2019 Nara, Kansai、奈良女子大学、奈良県奈良市、2019年3月30日。
 72.	瀬戸寿一 (2019年9月): アカデミック分野から見たシビックテック、Code for Japan Summit 2019、神田外語大学、千葉県千葉市、2019年9月29日。
 73.	瀬戸寿一 (2019年11月): 「シビックテック、デジタルコミュニケーションによる市民と行政の協働」、「デジタルスマートシティイニシアティブ」社会連携研究部門キックオフシンポジウム、東京大学生産技術研究所、2019年11月12日。
+74.	Yamauchi, H., Oguchi, T., Hayakawa, Y. and Seto, T.（2019年12月）Developing and operating GIS Open Educational Resources for Japanese university students, AGU Fall Meeting 2019, San Fransisco, USA, December 9th, 2019. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/528184
 
 # 招待講演・講座
 1.	瀬戸寿一(2002年7月)「郊外地域における環境保全活動と住民参加」、明治大学第73回背広ゼミ、明治大学駿河台キャンパス、東京都千代田区、2002年7月。
