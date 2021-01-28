@@ -25,7 +25,9 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 21.	金杉洋・瀬戸寿一・関本義秀・柴崎亮介「オープンストリートマップ道路データとデジタル道路地図の比較―位置と完全性に着目して―」、GIS理論と応用、27(1)、pp.43-48、2019.06.
 22.	山内啓之・小口高・早川裕弌・瀬戸寿一「GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価」、E-journal GEO、14(2)、pp.288-295、2019.05.27. https://doi.org/10.4157/ejgeo.14.288 
 23.	Soohyun, J., Kashiyama, T., Sekimoto, Y. and Seto, T.: An analysis of Factors Influencing Disaster Mobility using Location Data from Smartphones: Case study of Western Japan Flooding, Journal of Disaster Research, 14(6), pp.903-911, 2019.08.01. https://doi.org/10.20965/jdr.2019.p0903 
-24.	前田翠・関本義秀・瀬戸寿一「異なるタイプの不動産データを用いた不動産価値推定モデルの研究: ヘドニックとDeep Neural Networkの比較」、都市計画論文集、54(3)、pp.818-825、2019.10. https://doi.org/10.11361/journalcpij.54.818 
+24.	前田翠・関本義秀・瀬戸寿一「異なるタイプの不動産データを用いた不動産価値推定モデルの研究: ヘドニックとDeep Neural Networkの比較」、都市計画論文集、54(3)、pp.818-825、2019.10. https://doi.org/10.11361/journalcpij.54.818
+25.	Kashiyama, T., Sekimoto, Y., Seto, T. and Lwin, K.K.: Analyzing Road Coverage of Public Vehicles According to Number and Time Period for Installation of Road Inspection Systems. ISPRS International Journal of Geo-Information, 9(3):161, 2020.03. https://doi.org/10.3390/ijgi9030161 (Impact factor: 2.239 in 2020)
+26.	Seto, T.; Kanasugi, H.; Nishimura, Y. Quality Verification of Volunteered Geographic Information Using OSM Notes Data in a Global Context. ISPRS International Journal of Geo-Information, 9(6):372, 2020.06. https://doi.org/10.3390/ijgi9060372 (Impact factor: 2.239 in 2020)
 
 # 査読付き論文【国際・国内会議録】
 
@@ -52,6 +54,7 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 21.	Seto, T., Sekimoto, Y., Hasegawa, Y., Maeda, M. and Omata, H.: Citizen-oriented Future Urban Planning Workshops Using “My City Forecast”: A Focus on Public Participation by Web-based Communication Tools, Proceedings of International Conference on Spatial Analysis and Modeling (ICSAM), A-2-5, 2018.09. http://ua.t.u-tokyo.ac.jp/sam2018/abstract/A-2-5
 22.	Seto, T., Sekimoto, Y., Omata, H., Maeda, H., Kashiyama, T., Higashi, S., Fujii, M. and Seki, H.: The Development of Open Source Based Citizen Collaboration Applications for Infrastructure Management: My City Report, Proc. Int. Cartogr. Assoc., 2, 116, 2019.07 https://doi.org/10.5194/ica-proc-2-116-2019 
 23.	Seto, T., Kanasugi, H. and Nishimura, Y.: Analysis of OSM data through OSM-Notes user posting, Proceedings of the Academic Track at the State of the Map 2019, 15-16, 2019.09 http://doi.org/10.5281/zenodo.3387685
+24.	Seto, T., Sekimoto, Y., Asahi, K. and Endo, T.: Constructing a Digital City on a Web-3D Platform: Simultaneous and consistent generation of metadata and tile data from a multi-source raw dataset. Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Advances on Resilient and Intelligent Cities (ARIC'20), 9 pages, 2020.11 https://doi.org/10.1145/3423455.3430316 
 
 # 著書・所収論文【査読なし】
 
@@ -141,3 +144,8 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 63.	梶原健人・小川芳樹・瀬戸寿一・関本義秀「世帯単位の動向に着目したエージェントベースの人口分布予測モデルに関する研究」、地理情報システム学会講演論文集、28、4p.(CD-ROM)、2019.10。
 64.	山内啓之・小口高・早川裕弌・瀬戸寿一「改訂版GIS＆T BoKとGIS実習用オープン教材の解説項目の比較」、地理情報システム学会講演論文集、28、4p.(CD-ROM)、2019.10。
 65.	瀬戸寿一「My City Forecast〜あなたのまちの未来予報〜」、ESTRELA、307、pp.15-18、2019.10
+66.	瀬戸寿一「ボランタリーな地理空間情報による参加型地図作成の現在」、農村計画学会誌、38(4)、pp.460-463、2020.03.
+67.	瀬戸寿一・関本義秀・朝日孝輔・遠藤隆浩「多次元データと外部データ連携を融合させた地方都市におけるデジタルシティ基盤の構築」、地理情報システム学会講演論文集、29、4p.(CD-ROM)、2020.10.
+68.	梶原健人・瀬戸寿一・関本義秀「全国規模の推定世帯データの高精度化に向けたモデル構築」、地理情報システム学会講演論文集、29、4p.(CD-ROM)、2020.10.
+69.	瀬戸寿一「都市のデータ化と地理空間情報」、電気学会誌、141 (1)、pp.23-26、2021.01. https://doi.org/10.1541/ieejjournal.141.23
+
