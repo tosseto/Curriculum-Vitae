@@ -28,6 +28,7 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 24.	前田翠・関本義秀・瀬戸寿一「異なるタイプの不動産データを用いた不動産価値推定モデルの研究: ヘドニックとDeep Neural Networkの比較」、都市計画論文集、54(3)、pp.818-825、2019.10. https://doi.org/10.11361/journalcpij.54.818
 25.	Kashiyama, T., Sekimoto, Y., Seto, T. and Lwin, K.K.: Analyzing Road Coverage of Public Vehicles According to Number and Time Period for Installation of Road Inspection Systems. ISPRS International Journal of Geo-Information, 9(3):161, 2020.03. https://doi.org/10.3390/ijgi9030161 (Impact factor: 2.239 in 2020)
 26.	Seto, T.; Kanasugi, H.; Nishimura, Y. Quality Verification of Volunteered Geographic Information Using OSM Notes Data in a Global Context. ISPRS International Journal of Geo-Information, 9(6):372, 2020.06. https://doi.org/10.3390/ijgi9060372 (Impact factor: 2.239 in 2020)
+27.	Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T. and Omata, H.: Generative Adversarial Network for Road Damage Detection, Computer-Aided Civil and Infrastructure Engineering, 36(1), pp.47-60, 2020.06.02 https://doi.org/10.1111/mice.12561  (Impact factor: 8.552 in 2020)
 
 # 査読付き論文【国際・国内会議録】
 
