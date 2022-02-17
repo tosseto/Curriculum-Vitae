@@ -29,6 +29,7 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 25.	Kashiyama, T., Sekimoto, Y., Seto, T. and Lwin, K.K.: Analyzing Road Coverage of Public Vehicles According to Number and Time Period for Installation of Road Inspection Systems. ISPRS International Journal of Geo-Information, 9(3):161, 2020.03. https://doi.org/10.3390/ijgi9030161 (Impact factor: 2.239 in 2020)
 26.	Seto, T.; Kanasugi, H.; Nishimura, Y. Quality Verification of Volunteered Geographic Information Using OSM Notes Data in a Global Context. ISPRS International Journal of Geo-Information, 9(6):372, 2020.06. https://doi.org/10.3390/ijgi9060372 (Impact factor: 2.239 in 2020)
 27.	Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T. and Omata, H.: Generative Adversarial Network for Road Damage Detection, Computer-Aided Civil and Infrastructure Engineering, 36(1), pp.47-60, 2020.06.02 https://doi.org/10.1111/mice.12561  (Impact factor: 8.552 in 2020)
+28.	梶原健人・瀬戸寿一・関本義秀・小川芳樹・小俣博司「全国規模のエージェントシミュレーションに向けた世帯の現況推計データと将来予測モデルの構築」、都市計画論文集、56(3)、pp.603-610、2021.10. https://doi.org/10.11361/journalcpij.56.603 
 
 # 査読付き論文【国際・国内会議録】
 
@@ -77,6 +78,8 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 16.	是津耕司編『異分野データ連携　H28年度技術報告書～データでつなぐ人・モノ・コト』、エクスイズムCAS出版、104p、2017.06.01
 17.	Sekimoto, Y. and Seto, T.: My City X — citizens' collaboration tools for urban management, A Better World Vol. 5(Goal 11: Sustainable Cities and Communities), Tudor Rose publication in partnership with UN-HABITAT, pp.124-126, 2019.06.
 18.	瀬戸寿一「地理情報システム」、村上征勝監修『文化情報学事典』、勉誠出版、pp.336-340、2019.12.20、850p。
+19.	瀬戸寿一・西村雄一郎「クラウドソーシング時代における参加型調査と倫理性：デジタル地図を事例に」、近藤康久・大西秀之編著『環境問題を解く: ひらかれた協働研究のすすめ』、かもがわ出版、pp.70-83、2021.03.03、227p。
+20.	瀬戸寿一「オープンデータと市民参加」、	漆原和子・藤塚吉浩・松山洋・大西宏治 編『図説世界の地域問題100』、ナカニシヤ出版、pp.10-11、2021.12.27、224p。
 
 # 査読無し論文【依頼論文・国際会議録・国内会議録】
 
@@ -149,4 +152,5 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 67.	瀬戸寿一・関本義秀・朝日孝輔・遠藤隆浩「多次元データと外部データ連携を融合させた地方都市におけるデジタルシティ基盤の構築」、地理情報システム学会講演論文集、29、4p.(CD-ROM)、2020.10.
 68.	梶原健人・瀬戸寿一・関本義秀「全国規模の推定世帯データの高精度化に向けたモデル構築」、地理情報システム学会講演論文集、29、4p.(CD-ROM)、2020.10.
 69.	瀬戸寿一「都市のデータ化と地理空間情報」、電気学会誌、141 (1)、pp.23-26、2021.01. https://doi.org/10.1541/ieejjournal.141.23
+70.	瀬戸寿一「クラウドソーシング・オープンデータによる景観の把握と共有―景観データの民主化に向けて」、都市計画、70(3)、pp.72-73、2021.05.
 
