@@ -1,4 +1,4 @@
-# 学会発表【要旨のみまたは論文掲載がないもの】
+# 学会・カンファレンス発表【要旨のみまたは論文掲載がないもの】
 1.	瀬戸寿一･河原典史 (2007年5月)「文化的景観を形成する景観構成要素―北山杉林業地域・京都市中川北山町を例に―」、平成19年度日本民俗建築学会大会研究発表会、pp.2-4、三島市民生涯学習センター、2007年5月19日。
 2.	Iizuka, T., Matsumoto, A., Seto, T. and Yano, K.(2009年10月): GIS-based Monitoring Systems for Kyo-machiya in Kyoto City, 22nd CIPA International Symposium, Kyoto Tersa, Kyoto, Japan, October 2009.
 3.	Seto, T., Matsumoto, A., Iizuka, T. and Yano, K. (2009年10月) : Public Participation GIS of Historical Landscapes: A Case Study of "Kyo-machiya Community-building Survey" in Kyoto City, 22nd CIPA International Symposium, Kyoto Tersa, Kyoto, Japan, October 2009. 
