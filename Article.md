@@ -61,6 +61,7 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 26.	Seto, T., Kanasugi, H. and Nishimura, Y.: Analysis of OSM data through OSM-Notes user posting, Proceedings of the Academic Track at the State of the Map 2019, 15-16, 2019.09 http://doi.org/10.5281/zenodo.3387685
 27.	Seto, T., Sekimoto, Y., Asahi, K. and Endo, T.: Constructing a Digital City on a Web-3D Platform: Simultaneous and consistent generation of metadata and tile data from a multi-source raw dataset. Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Advances on Resilient and Intelligent Cities (ARIC'20), 1-9, 2020.11 https://doi.org/10.1145/3423455.3430316 
 28.	Seto, T., and Nishimura, Y.: Analysis of the spatiotemporal accumulation process of Mapillary data and its relationship with OSM road data: A case study in Japan, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-4/W1-2022, 403-410, 2022.08 https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-403-2022
+29.	Seto, T., Furuhashi, T. and Uchiyama, Y.: The Role of 3D City Model Data as an Open Digital Commons: A Case Study of Openness in Japan's Digital Twin "Project PLATEAU”, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-4/W1-2023, 201-208, 2023.06 https://doi.org/10.5194/isprs-archives-XLVIII-4-W7-2023-201-2023 
 
 # 著書・所収論文【査読なし】
 
@@ -88,6 +89,9 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 22.	瀬戸寿一「参加型データ社会の到来とオープンデータの活用」、川原靖弘・関本義秀編『地理空間情報の基礎と活用』、放送大学教育振興会、pp.201-217、2022.03.20、235p。
 23.	Seto, T.: Development Process of OpenStreetMap Data in Japan in Wakabayashi, Y. and Morita, T. eds.: Ubiquitous Mapping, Advances in Geographical and Environmental Sciences, Springer, pp.113-126, 153p, 2022.07.25. https://doi.org/10.1007/978-981-19-1536-9_7
 24.	瀬戸寿一「ハッカソンとシビックテック」、日本地理学会編『地理学事典』、丸善出版、pp.664-665、2023.01.30、800p。
+25.	Seto, T.: Base Map Development and Surveying in Japan in Sekimoto, Y. and Kawahara, Y. eds.: Utilization of Geospatial Information in Daily Life, Springer, pp.11-19, 174p, 2023.05.03. https://doi.org/10.1007/978-981-19-6905-8_2
+26.	Seto, T.: The Advent of a Participatory Data Society and the Usage of Open Data in Sekimoto, Y. and Kawahara, Y. eds.: Utilization of Geospatial Information in Daily Life, Springer, pp.155-156, 174p, 2023.05.03. https://doi.org/10.1007/978-981-19-6905-8_14
+
 
 # 査読無し論文【依頼論文・国際会議録・国内会議録】
 
@@ -165,3 +169,6 @@ https://doi.org/10.1016/j.compenvurbsys.2018.06.001 (Impact factor: 3.724 in 201
 72.	瀬戸寿一「データ駆動型社会における参加型まちづくりのためのデータ整備と活用」、自動車技術、76(7)、pp.20-27、2022.07.
 73.	瀬戸寿一「2021年学界展望　数理・計量・地理情報」、人文地理、74(3)、pp.263-268、2022.10.
 74.	瀬戸寿一「空間メディアとしての地理空間情報と3D都市モデル」、新都市、77(1)、pp.78-84、2023.01.
+75.	瀬戸寿一「都市のデジタルツインに向けた3D都市モデルの基盤化・標準化の意義」、ESTRELA、352、pp.2-8、2023.07.
+76.	瀬戸寿一・岩崎亘典・藤村英範「日本における土地のデータ化を巡る新展開―「法務省地図XMLアダプトプロジェクト」を事例に―」、地理情報システム学会講演論文集、32、9p.、2023.10.
+77.	瀬戸寿一「地理空間情報を介した市民参加と協働─デジタル・シチズンシップに向けて」、都市計画、368、pp.62-65、2024.05.
